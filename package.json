@@ -1,0 +1,19 @@
+{
+  "name": "aws-ecs-vcpu-count",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/carlosrv999/aws-ecs-vcpu-count.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/carlosrv999/aws-ecs-vcpu-count/issues"
+  },
+  "homepage": "https://github.com/carlosrv999/aws-ecs-vcpu-count#readme"
+}
